@@ -1,5 +1,5 @@
 # Trabalho de Inteligência Artificial: Perceptron
-**Aluno(a):** [Seu Nome]
+**Aluno(a):** Daniel Melo Nogueira Oliveira
 
 A partir da análise de um processo de destilação fracionada de petróleo, um Perceptron foi treinado usando a Regra de Hebb (algoritmo supervisionado) para classificar o óleo em duas classes de pureza, $C_1$ (-1) e $C_2$ (+1). A taxa de aprendizado utilizada foi $\eta = 0.01$.
 
